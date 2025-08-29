@@ -3,7 +3,7 @@
 
 - 📫 How to reach me **s.sarthak1357@gmail.com**
 
-- 📄 Know about my experiences [SWE Intern @ Piramal Finance Ltd](SWE Intern @ Piramal Finance Ltd)
+- 📄 Know about my experiences [SWE Intern @ Piramal Finance Ltd]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
